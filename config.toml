@@ -1,0 +1,46 @@
+BaseURL = "/"
+disqusShortname = "blog-chrisstayte"
+languageCode = "en-US"
+paginate = 6
+theme = "casper-two"
+[[menu.main]]
+name = "Life"
+url = "/life"
+weight = 1
+[[menu.main]]
+name = "Design"
+url = "/design"
+weight = 2
+[[menu.main]]
+name = "Coding"
+url = "/coding"
+weight = 3
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 4
+[params]
+RSSLink = ""
+author = "Kym_B"
+authorAvatar = "uploads/chrisstayte_profilepic.jpg"
+authorDescription = "Developer, Designer, Legend..."
+authorLocation = "New York, NY"
+authorWebsite = "https://www.cannabiswithkymb.com/"
+cover = "uploads/header.png"
+customCSS = []
+description = "Kym_B's Awesome Blog"
+twitterName = "cannabiswithkym"
+fbName = "Cannabis-with-KymB-158958404674460"
+igName = "cannabiswithkymb"
+googleAnalytics = ""
+logo = "uploads/logo.png"
+metaDescription = ""
+orgDescription = "Kym_B"
+orgName = "Kym_B"
+orgWebsite = "https://blog.chrisstayte.com"
+pageNotFoundTitle = "404 - Page not found"
+singleViewStyle = "casper"
+subtitle = ""
+title = ""
+[permalinks]
+post = "/:slug/"
